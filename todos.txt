@@ -1,0 +1,5 @@
+clean
+sleep
+result
+drink tea
+watch tv
