@@ -2,6 +2,7 @@
 import functions
 import time 
 
+# this is backend of the app
 now= time.strftime("%b %d, %Y  %H:%M")
 print("Time is given below:")  # Prints time
 print("It is : ",now)
