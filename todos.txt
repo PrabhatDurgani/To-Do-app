@@ -3,3 +3,6 @@ sleep
 result
 drink tea
 watch tv
+Make todo
+Make todo
+window close
