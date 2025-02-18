@@ -2,9 +2,7 @@ clean
 wake upresult outdrink tea
 watch tv
 Make todo
-Make todo
 window close
-Edit button operationalEdit button
 add todo
 last todo
 not last
