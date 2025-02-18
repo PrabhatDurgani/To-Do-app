@@ -1,5 +1,4 @@
 clean
-wake upresult outdrink tea
 watch tv
 Make todo
 window close
